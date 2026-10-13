@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Storytelling with Data: Code and Analysis for Sikkim and Rajasthan"
+authors:
+  - family-names: Kar
+    given-names: Shounak
+  - family-names: Kar
+    given-names: Sayan
+  - family-names: Chakraborty
+    given-names: Ahan
+  - family-names: Sanyal
+    given-names: Arnab
+date-released: 2026-10-12
+repository-code: "https://github.com/username/repo-name"
+url: "https://github.com/username/repo-name"
